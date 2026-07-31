@@ -19,3 +19,5 @@ Desejo aprender como escolher os componentes e organizar corretamente a estrutur
 No desenvolvimento de software em qualquer parte relacionada ou análise de dados.
 
 ## O que considero um software bem projetado?
+
+Um software de fácil adaptabilidade e manutenibilidade.
